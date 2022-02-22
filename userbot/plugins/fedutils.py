@@ -13,7 +13,7 @@ LOGS = logging.getLogger(__name__)
 FBAN_GROUP_ID = Config.FBAN_GROUP_ID
 
 plugin_category = "admin"
-rose = "@MissRose_bot"
+rose = "@sakuraXrobot"
 
 fbanresults = [
     "New FedBan",
